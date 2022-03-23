@@ -8,6 +8,7 @@
 <li>Instantiating and Destroying game objects.</li>
 <li>User Input from the Keyboard and the Mouse.</li>
 <li>Serialization of variables.</li>
+</ul>
 
 <h2>Requirements</h2>
 <ul>
